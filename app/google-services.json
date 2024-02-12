@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "392235756348",
+    "project_id": "what2eat-70125",
+    "storage_bucket": "what2eat-70125.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392235756348:android:b2114f138bec1301df8c39",
+        "android_client_info": {
+          "package_name": "com.example.what2eat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2HDRr-loDEPmaSFHT8O7Crot6-XnWguE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
