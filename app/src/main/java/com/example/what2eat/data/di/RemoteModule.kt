@@ -40,7 +40,7 @@ object RemoteModule {
                 val request = chain.request().newBuilder()
                 val originalHttpUrl = chain.request().url
                 val url = originalHttpUrl.newBuilder()
-                    .addQueryParameter("apiKey", "809924b3fc1442dcae6b18bd05d86520").build()
+                    .addQueryParameter("apiKey", "12345678912345678912345678912345").build()
                 request.url(url)
                 return@addInterceptor chain.proceed(request.build())
             }
